@@ -1,6 +1,6 @@
 # LaserGalvoSimulation
 To simulate the laser galvo device
-This code works with arrow keys to simulate the laser.
-Later this will be use with yolo code to point the detected objects with laser. 
+The code works with arrow keys to simulate the laser.
+Another code use YoloV7 tensor location to move laser using txt files as x and y location.
 
 Zaw Win Paing :)
